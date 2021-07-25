@@ -1,0 +1,1 @@
+from deps_preinstaller import entry_point
